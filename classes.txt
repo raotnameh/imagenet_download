@@ -1,0 +1,25 @@
+Shopping cart
+Ants climbing a tree
+Animal
+House
+Traffic sign
+Stop sign
+Person
+Street light
+Bicycle wheel
+Dog
+Cat
+Fire hydrant
+Human eye
+Human arm
+Human beard
+Human foot
+Human hair
+Human ear
+Human mouth
+Human leg
+Human head
+Human nose
+Human face
+Human hand
+Vehicle
