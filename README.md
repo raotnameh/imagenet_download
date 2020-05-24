@@ -1,4 +1,4 @@
-**The script is tested on ubuntu 18.04.**
+**The script is tested on ubuntu 18.04.** <br/>
 ** *Ofiicial Image net page: http://image-net.org/download-API* **
 
 ## Imagenet_download
